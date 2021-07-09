@@ -1,4 +1,4 @@
-# QuickKit-Site
-The official site for QuickKit
+# IntreSpark
+The official site for IntreSpark
 
 More info coming soon
