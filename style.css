@@ -1,9 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
 body {
   background-image: linear-gradient(to right, #3617AD, #4C3260);
-  color: white;
   font-family: 'Inter', sans-serif;
-
 }
 
 
@@ -48,5 +46,24 @@ a {
 
 a:hover {
   color: #A9A4AD;
+
+}
+
+span {
+  border-radius: 15px;
+  background-color: #39A2DB;
+  width: 5rem;
+  padding: 0 0.25rem;
+}
+
+h2 {
+  line-height: 1.5;
+}
+
+
+@media screen and (max-width: 480px) {
+  .rocket {
+    display: none;
+  }
 
 }
